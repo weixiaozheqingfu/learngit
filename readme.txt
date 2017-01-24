@@ -1,4 +1,3 @@
-git是一个版本控制的系统
-git是免费软件
-
-zaijiayihang
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
